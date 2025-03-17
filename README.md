@@ -24,13 +24,13 @@ This Python-based **Cold Email Generator** automates the process of crafting per
 
 
 ## 🛠 Installation  
-1. **Clone the repository**  
-   ```bash
+1. **Clone the repository**     
+   ```bash   
    git clone https://github.com/yourusername/cold-email-generator.git
    cd cold-email-generator
-2. **Install Dependencies**
+2. **Install Dependencies**      
    pip install -r requirements.txt
 
 ## Usage
-  Run this command in main.py
+  Run this command in main.py     
   streamlit run .\app\main.py

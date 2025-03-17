@@ -9,18 +9,17 @@ This Python-based **Cold Email Generator** automates the process of crafting per
 
 ## 🚀 Features  
 ✅ Web scraping to extract job data  
-✅ LLM-based skill extraction  
+✅ LLM-based skill extraction
 ✅ Automated project matching  
 ✅ Personalized cold email generation  
 
 ## 📂 Project Structure  
-📁 cold-email-generator
-│── chains.py # Handles LLM interactions
-│── main.py # Main script to run the generator
-│── portfolio.py # Project portfolio handling
-│── requirements.txt # Required dependencies
-│── utils.py # Utility functions
-│── resources
+│── chains.py # Handles LLM interactions   
+│── main.py # Main script to run the generator   
+│── portfolio.py # Project portfolio handling   
+│── requirements.txt # Required dependencies   
+│── utils.py # Utility functions   
+│── resources  
 │ └── portfolio.csv # CSV file containing project details
 
 

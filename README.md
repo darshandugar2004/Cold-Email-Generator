@@ -1,5 +1,8 @@
 # Cold Email Generator  
 
+### UI
+<img src="resource/Image.png" width="550" height="300">
+
 ## 📌 Overview  
 This Python-based **Cold Email Generator** automates the process of crafting personalized cold emails for job applications. Given a link to a company's careers page, the script:  
 1. Extracts job details from the website.  
